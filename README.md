@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
