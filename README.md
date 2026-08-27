@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
@@ -45,5 +46,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
