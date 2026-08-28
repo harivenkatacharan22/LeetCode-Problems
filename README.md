@@ -37,15 +37,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [0844-backspace-string-compare](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [0844-backspace-string-compare](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Interactive
@@ -70,5 +73,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
