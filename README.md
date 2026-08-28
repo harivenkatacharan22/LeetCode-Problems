@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1470-shuffle-the-array](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0069-sqrtx) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
