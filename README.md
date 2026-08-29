@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0844-backspace-string-compare](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0367-valid-perfect-square](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
 |  |
