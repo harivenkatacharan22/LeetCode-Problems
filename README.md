@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0844-backspace-string-compare](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
