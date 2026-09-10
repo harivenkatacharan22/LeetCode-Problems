@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0682-baseball-game) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0844-backspace-string-compare](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
