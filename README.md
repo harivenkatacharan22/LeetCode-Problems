@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Newton's Method
 |  |
 | ------- |
@@ -120,12 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3467-transform-array-by-parity](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Timsort
 |  |
 | ------- |
