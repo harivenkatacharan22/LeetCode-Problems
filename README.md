@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3467-transform-array-by-parity](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [3467-transform-array-by-parity](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3467-transform-array-by-parity](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
