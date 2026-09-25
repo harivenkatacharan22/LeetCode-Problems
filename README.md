@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0766-toeplitz-matrix](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0766-toeplitz-matrix) |
 | [0881-boats-to-save-people](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
@@ -134,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0766-toeplitz-matrix](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
