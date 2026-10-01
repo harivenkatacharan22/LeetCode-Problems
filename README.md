@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3467-transform-array-by-parity](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0075-sort-colors) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
