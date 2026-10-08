@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3884-first-matching-character-from-both-ends](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/3884-first-matching-character-from-both-ends) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Matrix
 |  |
 | ------- |
