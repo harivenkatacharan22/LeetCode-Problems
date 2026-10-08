@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3884-first-matching-character-from-both-ends](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [3884-first-matching-character-from-both-ends](https://github.com/harivenkatacharan22/LeetCode-Problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Interactive
 |  |
 | ------- |
